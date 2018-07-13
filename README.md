@@ -9,7 +9,17 @@
 
 ## User story:
 
+# Planning
 
+1. UI Component Hierarchy
+
+2. Static version in React
+
+3. The minimal Representation of UI State
+
+4. State Place
+
+5. Inverse Data Flow
 
 
 ## Installation
