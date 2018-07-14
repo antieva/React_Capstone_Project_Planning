@@ -24,7 +24,11 @@ Besides workouts and weight tracking the user can add their pictures, share thei
 
 * Keep track of completed workouts.
 
-* Functional workouts. 
+* Functional workouts.
+
+## ##Mocke UI
+
+![](images/mockeUI.jpg)
 
 
 ## User story:
