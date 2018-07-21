@@ -26,11 +26,15 @@ Besides workouts and weight tracking the user can add their pictures, share thei
 
 * Functional workouts.
 
-## ##Mocke UI
+## Mocke UI
 
 ![](images/img1.jpg)
 ![](images/img2.jpg)
 ![](images/img3.jpg)
+
+## Static Demo Version
+
+Link to the Demo https://github.com/antieva/Capstone_Static_Demo.git
 
 
 ## User story:
